@@ -53,16 +53,16 @@
     
     <categories>
       
-      <category>offer_I</category>
+      <category>剑指offer_I</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>stack</tag>
+      <tag>数组</tag>
       
-      <tag>array</tag>
+      <tag>栈</tag>
       
     </tags>
     
@@ -80,7 +80,7 @@
     
     <categories>
       
-      <category>offer_I</category>
+      <category>剑指offer_I</category>
       
       <category>leetcode</category>
       
